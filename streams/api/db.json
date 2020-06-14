@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Great stream.",
+      "id": 1
+    },
+    {
+      "title": "My second stream.",
+      "description": "Some description of this stream.",
+      "id": 2
+    },
+    {
+      "title": "My stream with component reuse.",
+      "description": "This stream I made after making the StreamForm. And now Edited, with my userId.",
+      "userId": "117646946892473054117",
+      "id": 4
+    }
+  ]
+}
